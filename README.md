@@ -27,7 +27,7 @@ Works well with either XAMPP or MAMP
 * PHP
 * jQuery
 * [Rivets.js](http://rivetsjs.com/) - Data binding and templating
-* [Maven](https://appelsiini.net/projects/jeditable/) - In place editing plugn
+* [J-editable](https://appelsiini.net/projects/jeditable/) - In place editing plugn
 
 ## Authors
 
