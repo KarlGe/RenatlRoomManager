@@ -1,0 +1,9 @@
+#syncBox{
+  display: none;
+  position: fixed;
+  bottom: 0;
+}
+#syncBox button{
+  width:10em;
+  height:3em;
+}
